@@ -1,0 +1,1 @@
+<?= 'Regristration Successful';
